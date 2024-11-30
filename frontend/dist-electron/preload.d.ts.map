@@ -1,0 +1,1 @@
+{"version":3,"file":"preload.d.ts","sourceRoot":"","sources":["../electron/preload.ts"],"names":[],"mappings":"AAaA,OAAO,CAAC,MAAM,CAAC;IACb,UAAU,MAAM;QACd,QAAQ,EAAE;YACR,aAAa,EAAE,MAAM,OAAO,CAAC,MAAM,CAAC,CAAA;SAErC,CAAA;KACF;CACF"}
